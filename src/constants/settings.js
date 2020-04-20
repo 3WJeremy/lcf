@@ -1,5 +1,5 @@
 const settings = {
-  prependPath: '/lcf',
+  prependPath: '',
   title: 'La Cañada Flintridge',
   yelpSearchUrl: 'https://api.yelp.com/v3/businesses/search',
   proxy: 'https://cors-anywhere.herokuapp.com/',
