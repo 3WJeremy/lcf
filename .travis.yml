@@ -19,5 +19,6 @@ deploy:
   strategy: git
   local_dir: ./build
   edge: true
+  fqdn: lacanada.wealthwisdomwellness.us
   on:
     branch: master
